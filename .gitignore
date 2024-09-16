@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/ConsoleAppDll_client
+/ConsoleAppDll_client/bin
+/ConsoleAppDll_client/obj
+/.vs/ProjectEvaluation
